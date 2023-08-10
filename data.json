@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2583017-1",
+"yandex_inter":"R-M-2583017-3",
+"yandex_native":"R-M-2583017-4",
+"yandex_reward":"R-M-2583017-4",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
@@ -37,21 +37,19 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
 
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HDq7N0F.webp"},
+  {"desc2":"FIFA, the Fédération Internationale de Football Association, stands as the cornerstone of the world's most popular sport, football. Established in 1904, this international governing body has not only overseen the growth of the sport but has also become a cultural and social phenomenon that transcends boundaries and unites nations. This article delves into the evolution, impact, and significance of FIFA in the realm of global football.","photo2":"https://iili.io/HDq7hiP.webp"},
+  {"desc3":"FIFA's inception can be traced back to May 21, 1904, when representatives from seven European nations met in Paris to create an organization that would facilitate international football competitions. Over the decades, FIFA has expanded its membership to include over 200 national associations, making it one of the largest and most influential sports organizations in the world.","photo3":"https://iili.io/HDq7wf1.webp"},
+  {"desc4":"One of FIFA's most renowned contributions is its organization of international football tournaments. The FIFA World Cup, held every four years, stands as the pinnacle of these competitions. This event captures the attention of billions of fans across the globe, creating an unparalleled sense of unity and excitement. Additionally, FIFA organizes other tournaments such as the Women's World Cup, the Confederations Cup, and youth championships, providing opportunities for players of all ages and genders to showcase their talent on a global stage.","photo4":"https://iili.io/HDq7XWB.webp"},
+  {"desc5":"Recognizing its global platform, FIFA has undertaken various initiatives to promote social development and positive change. Programs like FIFA's "Football for Hope" and its commitment to sustainability have aimed to use the sport as a means to address social issues and promote inclusivity. These efforts underscore FIFA's dedication to leveraging its influence for the betterment of communities and individuals around the world.","photo5":"https://iili.io/HDq7OUg.webp"},
+  {"descd":"While FIFA's impact is undeniable, the organization has also faced challenges, including allegations of corruption and controversies surrounding the bidding process for hosting tournaments. In response, FIFA has embarked on a journey of reform, implementing changes to enhance transparency, governance, and accountability within the organization.","photod":https://iili.io/HDq7kJa.webp"}
    ]
- 
-}
